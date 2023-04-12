@@ -1,0 +1,4 @@
+mGBA -> Tools -> Settings...
+|-> Game Boy -> Game Boy palette -> "Check Default color palette only"
+|-> Paths -> Screenshots -> (location of pokepy) ex: \home\ubuntu\pokepy
+|-> Interface -> Uncheck "Dynamically update window title"
